@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Sergio Romecin"'s" Blog]]></title>
-  <link href="http://sergioromecin.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Blog | Sergio Romecin"'s" Blog]]></title>
+  <link href="http://sergioromecin.github.io/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://sergioromecin.github.io/"/>
   <updated>2014-01-31T01:31:44-05:00</updated>
   <id>http://sergioromecin.github.io/</id>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Mi primer Blog con Octropress y alojado en GitHub Pages ]]></title>
+    <title type="html"><![CDATA[Mi Primer Blog Con Octropress Y Alojado en GitHub Pages]]></title>
     <link href="http://sergioromecin.github.io/blog/2014/01/30/title/"/>
     <updated>2014-01-30T00:15:18-05:00</updated>
     <id>http://sergioromecin.github.io/blog/2014/01/30/title</id>
