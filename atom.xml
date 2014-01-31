@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Sergio Romecin"'s" Blog]]></title>
+  <title><![CDATA[Sergio Romecin Blog]]></title>
   <link href="http://sergioromecin.github.io/atom.xml" rel="self"/>
   <link href="http://sergioromecin.github.io/"/>
-  <updated>2014-01-31T01:31:44-05:00</updated>
+  <updated>2014-01-31T02:14:23-05:00</updated>
   <id>http://sergioromecin.github.io/</id>
   <author>
     <name><![CDATA[Sergio Fernando Romecin Garcia]]></name>
